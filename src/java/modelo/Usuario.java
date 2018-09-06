@@ -1,10 +1,7 @@
 
 package modelo;
 
-/**
- *
- * @author Javier Vázquez
- */
+
 public class Usuario {
     private String nombre;
     private String usuario;
